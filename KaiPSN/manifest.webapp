@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "name": "KaiPSN",
+  "description": "Simple PlayStation Network Client",
+  "theme_color":"#008B8B",
+  
+  
+  "ime_default_softkey_bar": true,
+  "cursor": true,
+  "start_url": "https://www.playstation.com/",
+  "developer": {
+    "name": "Ettore Giacomini",
+	"url":"http://pugstation-7.github.io/"
+  },
+  "default_locale": "en-US",
+  "display":"browser",
+  "locales": {
+    "en-US": {
+      "name":"KaiPSN"
+	}
+  },
+  "icons": {
+    "128": "/img/icons/icon60x60.png"
+  }
+}
