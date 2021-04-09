@@ -1,0 +1,21 @@
+KaiPSN APP
+.name : KaiPSN
+.description : Simple link app for managing your PlayStation Network account from KaiOS
+.icon : https://github.com/Ettore-Giacomini-it/KaiPSN/blob/main/icon60x60.png
+.download:
+  url: https://github.com/Ettore-Giacomini-it/KaiPSN/raw/main/KaiPSN.zip
+  version: "1.0.0"
+.type : webLink
+author : Ettore Giacomini 'Kai' <hettore.giacomini@gmail.com>
+.maintainer : 
+  - Ettore Giacomini 'Kai' <hettore.giacomini@gmail.com>
+.meta :
+  tags : Psn; KaiOS; Playstation; PlayStation; Games; Managment;
+  categories : 
+   - games
+   - tools
+   - webLink
+.license : MIT
+.website : ettore-giacomini-it.github.io
+.git_repo : https://github.com/Ettore-Giacomini-it/KaiPSN
+.has_tracking: false (the website Playstation.com  which this app redirects-to may have tracking)
